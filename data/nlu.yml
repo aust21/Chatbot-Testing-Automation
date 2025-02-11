@@ -13,8 +13,7 @@ nlu:
     - hey there
     - let's go
     - hey dude
-    - goodmorning
-    - goodevening
+    - good morning
     - good afternoon
 
 - intent: goodbye
